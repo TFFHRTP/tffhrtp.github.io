@@ -186,8 +186,8 @@ params:
         url: https://github.com/TFFHRTP/tffhrtp.github.io
         icon: fab fa-github
         desc: Development takes place here!
-      - name: FHRP pubtheme by Matthew A. Davis
-        url: https://github.com/mdavistffhrtporg/fhrp-pubtheme
+      - name: FHRP pubtheme
+        url: https://github.com/TFFHRTP/fhrp-pubtheme
         icon: fab fa-github
         desc: Faster progress. Better world.
       - name: Slack
@@ -206,5 +206,5 @@ module:
     extended: true
     min: 0.110.0
   imports:
-    - path: github.com/mdavistffhrtporg/fhrp-pubtheme
+    - path: github.com/TFFHRTP/fhrp-pubtheme
       disable: false
