@@ -1,6 +1,6 @@
 ---
 title: Donate
-menu: {main: {weight: 50}}
+menu: {main: {weight: 30}}
 ---
 {{% blocks/cover title="Donate" image_anchor="bottom" height="auto" %}}
 Help give back
