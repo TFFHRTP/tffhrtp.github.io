@@ -4,13 +4,9 @@ linkTitle: Privacy Policy
 menu: {main: {weight: 80}}
 ---
 {{% blocks/cover title="Privacy Policy" image_anchor="bottom" height="auto" %}}
-Privacy Policy
+Last updated November 02, 2024
 {{% /blocks/cover %}}
 {{% blocks/section %}}
-
-## Last updated November 02, 2024
-
-
 
 This Privacy Notice for The Foundation for Human Rights through Photography (doing business as FHRP) ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
 Visit our website at http://www.fhrp.org, or any website of ours that links to this Privacy Notice

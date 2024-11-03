@@ -128,7 +128,7 @@ params:
   prism_syntax_highlighting: false
 
   copyright:
-    authors: The Foundation for Human Rights through Photography. | [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/) |
+    authors: The Foundation for Human Rights through Photography. | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
     from_year: 2023
     donations: Donations are Tax Deductible where law applies.
     ein: "EIN 93-3974545"
@@ -186,8 +186,8 @@ params:
         url: https://github.com/TFFHRTP/tffhrtp.github.io
         icon: fab fa-github
         desc: Development takes place here!
-      - name: FHRP pubtheme by Matthew A. Davis
-        url: https://github.com/mdavistffhrtporg/fhrp-pubtheme
+      - name: FHRP pubtheme
+        url: https://github.com/TFFHRTP/fhrp-pubtheme
         icon: fab fa-github
         desc: Faster progress. Better world.
       - name: Slack
@@ -206,5 +206,5 @@ module:
     extended: true
     min: 0.110.0
   imports:
-    - path: github.com/mdavistffhrtporg/fhrp-pubtheme
+    - path: github.com/TFFHRTP/fhrp-pubtheme
       disable: false
