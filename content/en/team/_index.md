@@ -14,7 +14,11 @@ Matthew Davis
 
 <img src="pic_mdavis.jpg" alt="President & CEO of The Foundation for Human Rights through Photography" width=40% />
 
+<<<<<<< HEAD
 ## President & CEO
+=======
+President & CEO
+>>>>>>> 2ad652fbd4165499376c22fcd06fbc5082425490
 
 Matthew A. Davis is a husband, father, photographer, cybersecurity expert, and Open Source contributor. He enjoys using his Oklahoma Joe’s offset smoker in his free time, and sitting outside on hot summer nights smoking brisket and pork butts. He is the President & CEO of The Foundation for Human Rights through Photography. He actively contributes to the Fedora Magazine, a part of the Fedora Project, as a writer and editor. He has been in the world of Open Source Software since 2003, and has used Fedora Linux since it was known as Fedora Core 1.
 
