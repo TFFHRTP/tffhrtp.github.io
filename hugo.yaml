@@ -61,7 +61,7 @@ markup:
       unsafe: true
   highlight:
     # See a complete list of available styles at https://xyproto.github.io/splash/docs/all.html
-    style: tango
+    style: github-dark
     # Uncomment if you want your chosen highlight style used for code blocks without a specified language
     # guessSyntax: true
 
@@ -128,7 +128,7 @@ params:
   prism_syntax_highlighting: false
 
   copyright:
-    authors: The Foundation for Human Rights through Photography. | [MPL-2.0]](https://www.mozilla.org/en-US/MPL/2.0/) |
+    authors: The Foundation for Human Rights through Photography. | [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/) |
     from_year: 2023
     donations: Donations are Tax Deductible where law applies.
     ein: 93-3974545
