@@ -4,14 +4,9 @@ linkTitle: Terms of Service
 menu: {main: {weight: 90}}
 ---
 {{% blocks/cover title="Terms of Service" image_anchor="bottom" height="auto" %}}
-Terms of Service
+Last updated August 27, 2024
 {{% /blocks/cover %}}
 {{% blocks/section %}}
-Terms and Conditions
-
-TERMS OF SERVICE
-
-Last updated August 27, 2024
 
 AGREEMENT TO OUR LEGAL TERMS
 
