@@ -1,5 +1,5 @@
 environment: production
-baseURL: https://tffhrtp.github.io/
+baseURL: https://fhrp.org/
 title: The Foundation for Human Rights through Photography
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
@@ -82,7 +82,7 @@ params:
     # set taxonomyPageHeader = [] to hide taxonomies on the page headers
     taxonomyPageHeader: [tags, categories]
 
-  privacy_policy: https://tffhrtp.github.io/privacy-policy/
+  privacy_policy: https://fhrp.org/privacy-policy/
 
   # First one is picked as the Twitter card image if not set on page.
   # images: [images/project-illustration.png]
