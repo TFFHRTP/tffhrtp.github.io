@@ -1,5 +1,5 @@
 environment: production
-baseURL: https://fhrp.org/
+baseURL: https://tffhrtp.github.io/
 title: The Foundation for Human Rights through Photography
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
@@ -82,7 +82,7 @@ params:
     # set taxonomyPageHeader = [] to hide taxonomies on the page headers
     taxonomyPageHeader: [tags, categories]
 
-  privacy_policy: https://fhrp.org/privacy-policy/
+  privacy_policy: https://tffhrtp.github.io/privacy-policy/
 
   # First one is picked as the Twitter card image if not set on page.
   # images: [images/project-illustration.png]
@@ -103,7 +103,7 @@ params:
 
   # A link to latest version of the docs. Used in the "version-banner" partial to
   # point people to the main doc site.
-  url_latest_version: https://fhrp.org/
+  url_latest_version: https://tffhrtp.github.io/
 
   # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
   github_repo: https://github.com/TFFHRTP/tffhrtp.github.io
