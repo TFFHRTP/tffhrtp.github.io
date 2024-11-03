@@ -3,22 +3,22 @@ baseURL: https://tffhrtp.github.io/
 title: The Foundation for Human Rights through Photography
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
-
 # Language settings
+
 contentDir: content/en
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
+
 # Useful when translating.
 enableMissingTranslationPlaceholders: true
-
 enableRobotsTXT: true
 
 # Will give values to .Lastmod etc.
+
 enableGitInfo: true
 
 # Comment out to enable taxonomies in Docsy
 # disableKinds: [taxonomy, taxonomyTerm]
-
 # You can add your own taxonomies
 taxonomies:
   tag: tags
@@ -27,8 +27,10 @@ taxonomies:
 # Highlighting config
 pygmentsCodeFences: true
 pygmentsUseClasses: false
+
 # Use the new Chroma Go highlighter in Hugo.
 pygmentsUseClassic: false
+
 # pygmentsOptions: "linenos=table"
 # See https://help.farbox.com/pygments.html
 pygmentsStyle: tango
@@ -50,26 +52,6 @@ languages:
     title: The Foundation for Human Rights through Photography
     params:
       description: Human rights nonprofit
-  # cSpell:disable
-  #'no':
-  #  languageName: Norsk
-  #  contentDir: content/no
-  #  title: Gulldoks
-  #  params:
-  #    description: Docsy er operativsystem for skyen
-  #    time_format_default: 02.01.2006
-  #    time_format_blog: 02.01.2006
-  #fa:
-  #  languageDirection: rtl
-  #  languageName: "فارسی (Persian)"
-  #  contentDir: content/fa
-  #  title: "اسناد گلدی"
-  #  params:
-  #    description: "یک نمونه برای پوسته داکسی"
-  #    time_format_default: 2006.01.02
-  #    time_format_blog: 2006.01.02
-  # cSpell:enable
-
 markup:
   goldmark:
     parser:
@@ -146,7 +128,7 @@ params:
   prism_syntax_highlighting: false
 
   copyright:
-    authors: The Foundation for Human Rights through Photography. | [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+    authors: The Foundation for Human Rights through Photography. | [MPL-2.0]](https://www.mozilla.org/en-US/MPL/2.0/) |
     from_year: 2023
     donations: Donations are Tax Deductible where law applies.
     ein: 93-3974545
