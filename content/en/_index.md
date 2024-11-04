@@ -9,7 +9,7 @@ title: Homepage
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://archives.fhrp.org/">
   Archives
 </a>
-<p class="lead mt-5"><a target="_blank" href="https://donorbox.org/donations-year-2"><img src="/static/images/logo-button-medium.png" /></a></p>
+<p class="lead mt-5"><a target="_blank" href="https://donorbox.org/donations-year-2"><img src="/images/logo-button-medium.png" /></a></p>
 {{< /blocks/cover >}}
 
 
