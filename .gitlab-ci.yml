@@ -13,14 +13,14 @@ image: registry.gitlab.com/pages/hugo/hugo_extended:latest
 
 variables:
   HUGO_ENV: production
-  THEME_URL: "github.com/theNewDynamic/gohugo-theme-ananke"
+  THEME_URL: "gitlab.com/mdavis2810614/fhrp-pubtheme"
 
 default:
   before_script:
-    - apk add --no-cache go curl bash nodejs
+    - apk add --no-cache --update go curl bash nodejs git npm tzdata
     - hugo mod get -u $THEME_URL
     ## Uncomment the following if you use PostCSS. See https://gohugo.io/hugo-pipes/postcss/
-    #- npm install postcss postcss-cli autoprefixer
+    - npm install postcss postcss-cli autoprefixer
 
 test:
   script:
