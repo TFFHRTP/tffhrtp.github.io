@@ -34,7 +34,7 @@ How do we keep your information safe? We have adequate organizational and techni
 
 What are your rights? Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about your privacy rights.
 
-How do you exercise your rights? The easiest way to exercise your rights is by visiting https://github.com/TFFHRTP/tffhrtp.github.io/issues/new, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+How do you exercise your rights? The easiest way to exercise your rights is by visiting https://gitlab.com/fhrp/tffhrtp-1.0/-/issues/new, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
 Want to learn more about what we do with any information we collect? Review the Privacy Notice in full.
 
@@ -88,7 +88,7 @@ passwords
 ## Sensitive Information. We do not process sensitive information.
 
 ## Payment Data.
-We may collect data necessary to process your payment if you choose to make purchases, such as your payment instrument number, and the security code associated with your payment instrument. All payment data is handled and stored by Donorbox and GitHub. You may find their privacy notice link(s) here: https://donorbox.org/privacy and https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement.
+We may collect data necessary to process your payment if you choose to make purchases, such as your payment instrument number, and the security code associated with your payment instrument. All payment data is handled and stored by Donorbox and GitLab. You may find their privacy notice link(s) here: https://donorbox.org/privacy and https://about.gitlab.com/privacy/.
 
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 
@@ -345,7 +345,7 @@ Right to limit use and disclosure of sensitive personal data (as permitted by ap
 Right to opt out of the collection of sensitive data and personal data collected through the operation of a voice or facial recognition feature (as permitted by applicable law, including Florida’s privacy law)
 How to Exercise Your Rights
 
-To exercise these rights, you can contact us by visiting https://github.com/TFFHRTP/tffhrtp.github.io/issues/new, by emailing us at compliance@fhrp.org, by mailing 1737 Long Meadow Rd, Wylie, TX 75098, or by referring to the contact details at the bottom of this document.
+To exercise these rights, you can contact us by visiting https://gitlab.com/fhrp/tffhrtp-1.0/-/issues/new, by emailing us at compliance@fhrp.org, by mailing 1737 Long Meadow Rd, Wylie, TX 75098, or by referring to the contact details at the bottom of this document.
 
 We will honor your opt-out preferences if you enact the Global Privacy Control (GPC) opt-out signal on your browser.
 
@@ -387,6 +387,6 @@ United States
 
 ## 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please visit: https://github.com/TFFHRTP/tffhrtp.github.io/issues/new.
+Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please visit: https://gitlab.com/fhrp/tffhrtp-1.0/-/issues/new.
       
 {{% /blocks/section %}}
