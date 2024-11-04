@@ -13,7 +13,7 @@ Your Support Fuels the Fight for Human Rights
 
 Millions of people around the world are facing human rights violations, such as war, genocide, torture, slavery, and discrimination. These atrocities often go unnoticed or ignored by the mainstream media and the public. That’s why we use photojournalism to expose the truth and amplify the voices of the victims and the survivors. Our photojournalists risk their lives to document the human rights abuses and the human dignity in the most challenging and dangerous situations.
 
-<a target="_blank" href="https://donorbox.org/donations-year-2"><img src="https://donorbox.org/images/png-donate/logo-button-medium.png" /></a>
+<a target="_blank" href="https://donorbox.org/donations-year-2"><img src="/static/images/logo-button-medium.png" /></a>
 { .text-center}
 
 Every image captured, every story told, is a step toward a more just and compassionate world. We urgently need your help to continue our vital work. Your generous donation empowers us to:
