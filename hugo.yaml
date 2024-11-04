@@ -1,5 +1,5 @@
 environment: production
-baseURL: https://fhrp.gitlab.io/tffhrtp-1.0/
+baseURL: https://tffhrtp-1-0-976fb1.gitlab.io
 title: The Foundation for Human Rights through Photography
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
@@ -82,7 +82,7 @@ params:
     # set taxonomyPageHeader = [] to hide taxonomies on the page headers
     taxonomyPageHeader: [tags, categories]
 
-  privacy_policy: https://fhrp.gitlab.io/tffhrtp-1.0
+  privacy_policy: https://tffhrtp-1-0-976fb1.gitlab.io/privacy-policy
 
   # First one is picked as the Twitter card image if not set on page.
   # images: [images/project-illustration.png]
@@ -103,7 +103,7 @@ params:
 
   # A link to latest version of the docs. Used in the "version-banner" partial to
   # point people to the main doc site.
-  url_latest_version: https://fhrp.gitlab.io/tffhrtp-1.0
+  url_latest_version: https://tffhrtp-1-0-976fb1.gitlab.io
 
   # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
   github_repo: https://gitlab.com/fhrp/tffhrtp-1.0
@@ -183,7 +183,7 @@ params:
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
       - name: Find this site on GitHub
-        url: https://gitlab.io/fhrp/tffhrtp-1.0
+        url: https://gitlab.com/fhrp/tffhrtp-1.0
         icon: fab fa-github
        # desc:
       - name: FHRP pubtheme
