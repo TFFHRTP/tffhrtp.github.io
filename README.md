@@ -2,3 +2,5 @@
 
 This is the public facing repository for The Foundation for Human Rights through Photography
 GitHub pages website.
+
+More information to come soon.
