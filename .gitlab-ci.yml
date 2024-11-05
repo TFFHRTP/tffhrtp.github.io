@@ -13,7 +13,7 @@ image: registry.gitlab.com/pages/hugo/hugo_extended:latest
 
 variables:
   HUGO_ENV: production
-  THEME_URL: "gitlab.com/mdavis2810614/fhrp-pubtheme"
+  THEME_URL: "gitlab.com/tffhrtp/fhrp-pubtheme"
 
 default:
   before_script:

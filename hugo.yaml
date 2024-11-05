@@ -106,7 +106,7 @@ params:
   url_latest_version: https://tffhrtp-1-0-976fb1.gitlab.io
 
   # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-  github_repo: https://gitlab.com/fhrp/tffhrtp-1.0
+  github_repo: https://gitlab.com/tffhrtp/tffhrtp-1.0
 
   # An optional link to a related project repo. For example, the sibling repository where your product code lives.
   # github_project_repo: https://gitlab.com/mdavis2810614/fhrp-pubtheme
@@ -155,9 +155,9 @@ params:
       enable: true
       # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
       'yes': >-
-        Glad to hear it! Please <a href="https://gitlab.com/fhrp/tffhrtp-1.0/-/issues/new">tell us how we can improve</a>.
+        Glad to hear it! Please <a href="https://gitlab.com/tffhrtp/tffhrtp-1.0/-/issues/new">tell us how we can improve</a>.
       'no': >-
-        Sorry to hear that. Please <a href="https://gitlab.com/fhrp/tffhrtp-1.0/-/issues/new">tell us how we can improve</a>.
+        Sorry to hear that. Please <a href="https://gitlab.com/tffhrtp/tffhrtp-1.0/-/issues/new">tell us how we can improve</a>.
 
     # Adds a reading time to the top of each doc.
     # If you want this feature, but occasionally need to remove the Reading time from a single page,
@@ -183,11 +183,11 @@ params:
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
       - name: Find this site on GitHub
-        url: https://gitlab.com/fhrp/tffhrtp-1.0
+        url: https://gitlab.com/tffhrtp/tffhrtp-1.0
         icon: fab fa-github
        # desc:
       - name: FHRP pubtheme
-        url: https://gitlab.com/mdavis2810614/fhrp-pubtheme
+        url: https://gitlab.com/tffhrtp/fhrp-pubtheme
         icon: fab fa-github
        # desc:
      # - name: Slack
@@ -206,5 +206,5 @@ module:
     extended: true
     min: 0.110.0
   imports:
-    - path: gitlab.com/mdavis2810614/fhrp-pubtheme
+    - path: gitlab.com/tffhrtp/fhrp-pubtheme
       disable: false
