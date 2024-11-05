@@ -13,7 +13,7 @@ We archive photographs for anyone to view; anytime, anywhere. Images can be used
 
 Photographers that wish to submit their photographs for others to use may do so by signing up for a member account by clicking the link below.
 
-<p><a class="dbox-donation-page-button" href="https://archives.fhrp.org/" style="background: rgb(216, 17, 93); color: rgb(255, 255, 255); text-decoration: none; font-family: Verdana, sans-serif; display: flex; font-size: 16px; padding: 8px 24px; border-radius: 5px; gap: 8px; width: fit-content; line-height: 24px;">Archives</a></p>
+<p><a class="dbox-donation-page-button" href="https://fhrp.org/contribute"" style="background: rgb(216, 17, 93); color: rgb(255, 255, 255); text-decoration: none; font-family: Verdana, sans-serif; display: flex; font-size: 16px; padding: 8px 24px; border-radius: 5px; gap: 8px; width: fit-content; line-height: 24px;">Archives Coming Soon</a></p>
 
 If you have a copyright complaint, please email us at copyrights@fhrp.org.
 {{% /blocks/section %}}

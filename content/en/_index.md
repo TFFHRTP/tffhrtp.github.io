@@ -6,7 +6,7 @@ title: Homepage
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/about/">
   About 
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://archives.fhrp.org/">
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://fhrp.org/contribute">
   Archives
 </a>
 <p class="lead mt-5"><a target="_blank" href="https://donorbox.org/donations-year-2"><img src="/images/logo-button-medium.png" /></a></p>
