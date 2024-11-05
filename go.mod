@@ -1,6 +1,6 @@
 module gitlab.com/fhrp/tffhrtp-1.0
 
-go 1.23.2
+go 1.22.7
 
 require (
 	github.com/twbs/bootstrap v5.3.3+incompatible // indirect
