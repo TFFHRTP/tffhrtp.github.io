@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Docs Site
 menu: {main: {weight: 20}}
 ---
 {{% blocks/cover title="Docs" image_anchor="bottom" height="auto" %}}
