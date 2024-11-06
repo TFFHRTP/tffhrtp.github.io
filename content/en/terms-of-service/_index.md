@@ -1,7 +1,7 @@
 ---
 title: Terms of Service
 linkTitle: Terms of Service
-menu: {main: {weight: 90}}
+menu: {main: {weight: 100}}
 ---
 {{% blocks/cover title="Terms of Service" image_anchor="bottom" height="auto" %}}
 Last updated August 27, 2024

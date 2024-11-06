@@ -1,7 +1,7 @@
 ---
 title: Volunteer
 linkTitle: Volunteer
-menu: {main: {weight: 40}}
+menu: {main: {weight: 50}}
 ---
 {{% blocks/cover title="Volunteer" image_anchor="bottom" height="auto" %}}
 

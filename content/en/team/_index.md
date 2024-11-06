@@ -1,7 +1,7 @@
 ---
 title: Team
 linkTitle: Team
-menu: {main: {weight: 50}}
+menu: {main: {weight: 60}}
 ---
 
 {{% blocks/cover title="Team Members" image_anchor="bottom" height="auto" %}}

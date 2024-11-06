@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 linkTitle: Privacy Policy
-menu: {main: {weight: 80}}
+menu: {main: {weight: 90}}
 ---
 {{% blocks/cover title="Privacy Policy" image_anchor="bottom" height="auto" %}}
 Last updated November 04, 2024

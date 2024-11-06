@@ -1,7 +1,7 @@
 ---
 title: Contact
 linkTitle: Contact
-menu: {main: {weight: 70}}
+menu: {main: {weight: 80}}
 ---
 {{% blocks/cover title="Conact" image_anchor="bottom" height="auto" %}}
 Get in touch with us
