@@ -41,7 +41,7 @@ Why your donation matters:
 
 <b>Inspire change:</b> We expose injustice, spark conversations, and empower action.
 
-<b>Educate and advocate:</b> We provide free access to our photos and content, equipping you to join the fight for human rights.
+<b>Educate advocate:</b> We provide free access to our photos and content, equipping you to join the fight for human rights.
 
 Even a small gift makes a big difference:
 { .h1 .text-center}

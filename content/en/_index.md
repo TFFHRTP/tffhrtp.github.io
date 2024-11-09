@@ -2,7 +2,7 @@
 title: Homepage
 ---
 
-{{< blocks/cover title="Advocate. Document. Promote." image_anchor="top" height="full" >}}
+{{< blocks/cover title="Educate. Document. Promote." image_anchor="top" height="full" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/about/">
   About 
 </a>
@@ -21,9 +21,9 @@ Humans deserve certain rights in life; we support photographers that want to hel
 
 
 {{% blocks/section color="dark" %}}
-<b>1. Advocacy</b>
+<b>1. Education</b>
 
-Through powerful imagery, we advocate for human rights globally, shedding light on both triumphs and injustices.
+Through powerful imagery, we educate people about human rights globally, shedding light on both triumphs and injustices.
 
 <b>2. Documentation</b>
 
