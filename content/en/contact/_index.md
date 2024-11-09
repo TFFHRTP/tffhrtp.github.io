@@ -3,7 +3,7 @@ title: Contact
 linkTitle: Contact
 menu: {main: {weight: 80}}
 ---
-{{% blocks/cover title="Conact" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="Contact" image_anchor="bottom" height="auto" %}}
 Get in touch with us
 {.mt-5}
 {{% /blocks/cover %}}
