@@ -13,7 +13,7 @@ Inspiring Change through Imagery
 
 {{% blocks/lead %}}
 
-The Foundation for Human Rights through Photography was established in 2023. Our goal is to advocate for, document, and capture human rights through the lens of photography. We strive to use photography as a way to show that all humans have a right for the greater good. They should have equal rights given to them, no matter where they are located. We are currently focused on documenting human rights, and need your help expanding throughout the globe.
+The Foundation for Human Rights through Photography was established in 2023. Our goal is to educate, document, and capture human rights through the lens of photography. We strive to use photography as a way to show that all humans have a right for the greater good. They should have equal rights given to them, no matter where they are located. We are currently focused on documenting human rights, and need your help expanding throughout the globe.
 
 {{% /blocks/lead %}}
 
@@ -53,7 +53,7 @@ The Power of Perspective: Visual storytelling allows us to step into the shoes o
 Moving Hearts and Minds: A powerful photograph has the potential to awaken dormant emotions, stirring our hearts and igniting a sense of responsibility. It can inspire individuals to stand in solidarity with marginalized communities, dismantle systemic inequalities, and champion social justice.
 Challenging Stereotypes: Visual storytelling disrupts prevailing stereotypes and brings nuance to complex narratives. By showcasing the multifaceted nature of marginalized communities, it challenges preconceived notions and encourages a more inclusive and informed perspective.
 
-__2. Advocating for Marginalized Voices__
+__2. Fighting for Marginalized Voices__
 
 At The Foundation for Human Rights through Photography, we firmly believe everyone deserves to be heard. Through our photography initiatives, we strive to amplify the voices of marginalized communities, providing a platform for their stories to be seen, heard and understood.
 
@@ -63,14 +63,14 @@ __3. Inspiring Action through Storytelling__
 
 Visual storytelling has the remarkable ability to inspire action that transcends the digital realm. It can mobilize communities, spark conversations, and galvanize individuals into tangible change-makers. Our photography projects aim to bridge the gap between awareness and action.
 
-We believe in the motto, “A picture is worth a thousand words.” A single photograph can evoke emotions, illuminate injustice, and motivate individuals to get involved in advocating for marginalized communities. It can serve as a catalyst for public discourse, policy changes, and even grassroots movements.
+We believe in the motto, “A picture is worth a thousand words.” A single photograph can evoke emotions, illuminate injustice, and motivate individuals to get involved in highlighting the needs of marginalized communities. It can serve as a catalyst for public discourse, policy changes, and even grassroots movements.
 
 __4. Get Involved: Stand for Equality__
 
 We firmly believe that change starts with individuals. You can play a vital role in empowering marginalized communities and promoting human rights through photography. Here’s how you can get involved:
 
 Spread the Word: Share the visual stories and initiatives of The Foundation for Human Rights through Photography with your friends, family, and social networks. By amplifying these narratives, you contribute to raising awareness and inspiring action.
-Donate: Support our cause by making a one-time, monthly, or yearly donation. Your contribution enables us to continue documenting human rights abuses, empowering marginalized communities, and advocating for social justice.
+Donate: Support our cause by making a one-time, monthly, or yearly donation. Your contribution enables us to continue documenting human rights abuses, empowering marginalized communities, and standing up social justice.
 Volunteer: If you are passionate about photography and want to make a difference, consider volunteering with us. We offer various opportunities, from assisting in community empowerment programs to contributing your skills in visual storytelling.
 Together, we can unleash the transformative power of visual storytelling and create a world where marginalized communities are empowered, their voices amplified, and human rights upheld. Join us in this journey towards a more just and compassionate world.
 

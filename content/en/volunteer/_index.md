@@ -18,7 +18,7 @@ Join us in making a difference in the community. We offer various volunteering o
 
 ## Company Description
 
-The Foundation for Human Rights through Photography is a nonprofit organization dedicated to documenting, sharing, and advocating for human rights through the power of photography. We believe in the power of images to inspire change, educate the public, and empower communities worldwide.
+The Foundation for Human Rights through Photography is a nonprofit organization dedicated to documenting, sharing, and standing up for human rights through the power of photography. We believe in the power of images to inspire change, educate the public, and empower communities worldwide.
 
 ## Position Summary
 
