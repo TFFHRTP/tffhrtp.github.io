@@ -1,5 +1,5 @@
 environment: production
-baseURL: https://tffhrtp-1-0-d23cab.gitlab.io/
+baseURL: https://tffhrtp.github.io/
 title: The Foundation for Human Rights through Photography
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
@@ -82,7 +82,7 @@ params:
     # set taxonomyPageHeader = [] to hide taxonomies on the page headers
     taxonomyPageHeader: [tags, categories]
 
-  privacy_policy: https://tffhrtp-1-0-d23cab.gitlab.io/privacy-policy
+  privacy_policy: https://tffhrtp.github.io/privacy-policy
 
   # First one is picked as the Twitter card image if not set on page.
   # images: [images/project-illustration.png]
@@ -103,13 +103,13 @@ params:
 
   # A link to latest version of the docs. Used in the "version-banner" partial to
   # point people to the main doc site.
-  url_latest_version: https://tffhrtp-1-0-d23cab.gitlab.io/
+  url_latest_version: https://tffhrtp.github.io/
   
   # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-  github_repo: https://gitlab.com/tffhrtp/tffhrtp-1.0
+  github_repo: https://github.com/tffhrtp/tffhrtp.github.io
 
   # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-  # github_project_repo: https://gitlab.com/mdavis2810614/fhrp-pubtheme
+  # github_project_repo: https://github.com/tffhrtp/fhrp-pubtheme
 
   # Specify a value here if your content directory is not in your repo's root directory
   # github_subdir: ""
@@ -155,9 +155,9 @@ params:
       enable: true
       # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
       'yes': >-
-        Glad to hear it! Please <a href="https://gitlab.com/tffhrtp/tffhrtp-1.0/-/issues/new">tell us how we can improve</a>.
+        Glad to hear it! Please <a href="https://github.com/tffhrtp/tffhrtp.github.io/issues/new">tell us how we can improve</a>.
       'no': >-
-        Sorry to hear that. Please <a href="https://gitlab.com/tffhrtp/tffhrtp-1.0/-/issues/new">tell us how we can improve</a>.
+        Sorry to hear that. Please <a href="https://github.com/tffhrtp/tffhrtp.github.io/issues/new">tell us how we can improve</a>.
 
     # Adds a reading time to the top of each doc.
     # If you want this feature, but occasionally need to remove the Reading time from a single page,
@@ -206,5 +206,5 @@ module:
     extended: true
     min: 0.110.0
   imports:
-    - path: gitlab.com/tffhrtp/fhrp-pubtheme
+    - path: github.com/tffhrtp/fhrp-pubtheme
       disable: false
