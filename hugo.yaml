@@ -183,11 +183,11 @@ params:
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
       - name: Find this site on GitHub
-        url: https://gitlab.com/tffhrtp/tffhrtp-1.0
+        url: https://github.com/tffhrtp/tffhrtp.github.io
         icon: fab fa-github
        # desc:
       - name: FHRP pubtheme
-        url: https://gitlab.com/tffhrtp/fhrp-pubtheme
+        url: https://github.com/tffhrtp/fhrp-pubtheme
         icon: fab fa-github
        # desc:
      # - name: Slack
