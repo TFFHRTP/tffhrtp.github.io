@@ -14,78 +14,100 @@ We are currently seeking motivated photographers to donate their images to our a
 {{% blocks/section %}}
 Join us in making a difference in the community. We offer various volunteering opportunities that you can participate in. If you are interested in volunteering, please email jobs@fhrp.org
 
-## Volunteer Photographer Position – The Foundation for Human Rights through Photography
+## Volunteer Software Developer - Lead Open Source Team
 
-## Company Description
+## The Foundation for Human Rights through Photography
 
-The Foundation for Human Rights through Photography is a nonprofit organization dedicated to documenting, sharing, and standing up for human rights through the power of photography. We believe in the power of images to inspire change, educate the public, and empower communities worldwide.
+About the Foundation:
 
-## Position Summary
+The Foundation for Human Rights through Photography is a non-profit organization dedicated to documenting human rights abuses and promoting justice through the power of photography. We believe that visual evidence can play a crucial role in exposing injustice, holding perpetrators accountable, and inspiring action. To expand our reach and impact, we are transitioning to an Open Source Initiative (OSI) model, making our tools and resources accessible to journalists, and organizations worldwide.
 
-We are seeking talented and passionate Volunteer Photographers to join our team. As a Volunteer Photographer, you will have the opportunity to contribute to our mission by capturing compelling images that highlight human rights issues around the world. Your work will be instrumental in our campaigns, exhibitions, and publications, helping to raise awareness and promote social change.
+About the Role:
 
-## Role Description
+We are seeking a passionate and skilled Volunteer Software Developer to lead our new open source team and spearhead the development of our groundbreaking archive software. This software will serve as a central hub for storing, organizing, and accessing photographs documenting human rights abuses globally. This is a unique opportunity to use your technical expertise to make a real difference in the fight for human rights.
 
-This is a volunteer remote role for a Photographer. The Photographer will be responsible for capturing compelling images that tell impactful stories related to human rights. They will collaborate with the team to understand specific photographic needs and deliver high-quality photographs for various projects and campaigns.
+Responsibilities:
 
-## Key Responsibilities
+Lead the Open Source Team:
 
-Photography Projects: Participate in photography projects and assignments to document human rights issues, including fieldwork and events.
-Creative Collaboration: Work closely with our team to develop visual storytelling strategies that align with our mission and campaigns.
-Photo Editing: Edit and prepare images for publication, ensuring they meet the foundation’s quality and ethical standards.
-Archive Management: Assist in managing our photo archive, including cataloging, tagging, and organizing images.
-Qualifications
+Recruit and onboard volunteer developers with diverse skillsets.
 
-Proficiency in photography techniques, including composition, lighting, and editing
+Foster a collaborative and inclusive team environment.
 
-Experience using professional photography equipment and software
+Delegate tasks and mentor team members.
 
-Demonstrated ability to capture impactful and emotionally engaging images
+Organize and lead regular team meetings (virtual).
 
-Strong visual storytelling skills
+Software Development:
 
-Ability to work independently and take initiative
+Design and develop a robust and user-friendly archive software using open source technologies.
 
-Excellent communication and collaboration skills
+Ensure the software is scalable, secure, and optimized for performance.
 
-Passion for human rights and social justice
+Implement features for image storage, metadata management, search functionality, and user authentication.
 
-Portfolio showcasing previous photography work
+Develop APIs for integration with other platforms and tools.
 
-Passionate about human rights and social justice.
+Write clean, well-documented code and conduct thorough testing.
 
-Professional or advanced amateur photography skills, with a portfolio that demonstrates your ability.
+Strategic Planning:
 
-Proficiency in photo editing software (e.g., Adobe Photoshop, Lightroom).
+Collaborate with the Foundation's leadership to define the software's long-term vision and roadmap.
 
-Ability to work independently and in team settings.
+Contribute to the development of the Foundation's open source strategy.
 
-Excellent communication skills and a collaborative spirit.
+Research and recommend appropriate open source licenses and governance models.
 
-Willingness to undertake assignments with sensitivity and respect for subjects and communities.
+Community Engagement:
 
-## Commitment
+Engage with the open source community to promote the project and attract contributors.
 
-This is a volunteer position. We are looking for individuals who can commit to a minimum of 5 hours per week for at least 8 months. Assignments may vary in location, and some may require travel.
+Respond to user feedback and bug reports.
 
-## Benefits
+Participate in relevant online forums and conferences.
 
-Opportunity to contribute to meaningful projects and make a tangible impact on human rights issues.
+Qualifications:
 
-Expand your photography portfolio with diverse and impactful images.
-Be part of a passionate community of like-minded individuals dedicated to social change.
+Essential:
 
-Receive credit for your work in our publications and exhibitions.
+Strong proficiency in at least one major programming language (e.g., Python, Java, JavaScript).
 
-## How to Apply
+Experience with web development frameworks (e.g., Django, React, Node.js).
 
-Please send your resume, a cover letter explaining why you are interested in this position and how your skills and experiences align with our mission, and a portfolio of your photographic work to jobs@fhrp.org. Applications will be accepted on a rolling basis until the position is filled.
+Familiarity with database technologies (e.g., PostgreSQL, MySQL).
 
-For more information about our foundation and our work, please visit our website at https://fhrp.org/
+Understanding of software development best practices, including version control (Git) and agile methodologies.
 
-We look forward to seeing your application and the possibility of you joining our team!
+Excellent communication and collaboration skills.
 
-## Why Choose Us?
+Passion for human rights and social justice.
 
-Discover the unique ways we use visual storytelling to drive change and empower communities.
+Desirable:
+
+Experience with image processing and analysis libraries.
+
+Knowledge of cloud computing platforms (e.g., AWS, Google Cloud).
+
+Familiarity with open source software development and licensing.
+
+Experience leading or mentoring development teams.
+
+Benefits:
+
+Make a meaningful impact: Contribute to a critical mission and make a tangible difference in contributing to human rights.
+
+Gain valuable experience: Develop your technical skills and gain experience leading an open source project.
+
+Expand your network: Collaborate with a passionate team of developers and human rights educators.
+
+Professional development: Enhance your leadership, communication, and project management skills.
+
+Be part of a global movement: Join a growing community of individuals dedicated to using technology for social good.
+
+To Apply:
+
+Please submit your resume and a cover letter expressing your interest and relevant experience to [mdavis@fhrp.org](mailto:mdavis@fhrp.org)
+
+We strongly encourage applications from individuals from diverse backgrounds and underrepresented groups in the tech industry.
+
 {{% /blocks/section %}}
