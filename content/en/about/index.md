@@ -70,7 +70,7 @@ __4. Get Involved: Stand for Equality__
 We firmly believe that change starts with individuals. You can play a vital role in empowering marginalized communities and promoting human rights through photography. Here’s how you can get involved:
 
 Spread the Word: Share the visual stories and initiatives of The Foundation for Human Rights through Photography with your friends, family, and social networks. By amplifying these narratives, you contribute to raising awareness and inspiring action.
-Donate: Support our cause by making a one-time, monthly, or yearly donation. Your contribution enables us to continue documenting human rights abuses, empowering marginalized communities, and standing up social justice.
+Donate: Support our cause by making a one-time, monthly, or yearly donation. Your contribution enables us to continue documenting human rights abuses, empowering marginalized communities, and standing up for social justice.
 Volunteer: If you are passionate about photography and want to make a difference, consider volunteering with us. We offer various opportunities, from assisting in community empowerment programs to contributing your skills in visual storytelling.
 Together, we can unleash the transformative power of visual storytelling and create a world where marginalized communities are empowered, their voices amplified, and human rights upheld. Join us in this journey towards a more just and compassionate world.
 
