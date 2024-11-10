@@ -12,7 +12,7 @@ We are currently seeking motivated photographers to donate their images to our a
 {{% /blocks/lead %}}
 
 {{% blocks/section %}}
-Join us in making a difference in the community. We offer various volunteering opportunities that you can participate in. If you are interested in volunteering, please email jobs@fhrp.org
+Join us in making a difference in the community. We offer various volunteering opportunities that you can participate in. If you are interested in volunteering, please email mdavis@fhrp.org
 
 ## Volunteer Software Developer - Lead Open Source Team
 
