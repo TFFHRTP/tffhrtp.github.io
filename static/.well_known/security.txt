@@ -1,5 +1,6 @@
 Contact: mailto:compliance@fhrp.org
-Expires: 2025-10-31T00:00:00Z
+Expires: 2025-10-31T12:00:00Z
+Encryption: https://fhrp.org/mdavis_gpg_pub.asc
 Canonical: https://fhrp.org/.well_known/security.txt
 Hiring: https://fhrp.org/volunteer
 Preferred-Languages: en
