@@ -1,0 +1,327 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXFileReference section */
+		A7B36EE02CF14059000B7F8F /* applypatch-msg.sample */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "applypatch-msg.sample"; sourceTree = "<group>"; };
+		A7B36EE12CF14059000B7F8F /* commit-msg.sample */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "commit-msg.sample"; sourceTree = "<group>"; };
+		A7B36EE22CF14059000B7F8F /* fsmonitor-watchman.sample */ = {isa = PBXFileReference; lastKnownFileType = text.script.perl; path = "fsmonitor-watchman.sample"; sourceTree = "<group>"; };
+		A7B36EE32CF14059000B7F8F /* post-update.sample */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "post-update.sample"; sourceTree = "<group>"; };
+		A7B36EE42CF14059000B7F8F /* pre-applypatch.sample */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "pre-applypatch.sample"; sourceTree = "<group>"; };
+		A7B36EE52CF14059000B7F8F /* pre-commit.sample */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "pre-commit.sample"; sourceTree = "<group>"; };
+		A7B36EE62CF14059000B7F8F /* pre-merge-commit.sample */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "pre-merge-commit.sample"; sourceTree = "<group>"; };
+		A7B36EE72CF14059000B7F8F /* pre-push.sample */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "pre-push.sample"; sourceTree = "<group>"; };
+		A7B36EE82CF14059000B7F8F /* pre-rebase.sample */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "pre-rebase.sample"; sourceTree = "<group>"; };
+		A7B36EE92CF14059000B7F8F /* pre-receive.sample */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "pre-receive.sample"; sourceTree = "<group>"; };
+		A7B36EEA2CF14059000B7F8F /* prepare-commit-msg.sample */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "prepare-commit-msg.sample"; sourceTree = "<group>"; };
+		A7B36EEB2CF14059000B7F8F /* push-to-checkout.sample */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "push-to-checkout.sample"; sourceTree = "<group>"; };
+		A7B36EEC2CF14059000B7F8F /* sendemail-validate.sample */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "sendemail-validate.sample"; sourceTree = "<group>"; };
+		A7B36EED2CF14059000B7F8F /* update.sample */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = update.sample; sourceTree = "<group>"; };
+		A7B36EEF2CF14059000B7F8F /* exclude */ = {isa = PBXFileReference; lastKnownFileType = text; path = exclude; sourceTree = "<group>"; };
+		A7B36EF12CF14059000B7F8F /* master */ = {isa = PBXFileReference; lastKnownFileType = text; path = master; sourceTree = "<group>"; };
+		A7B36EF22CF14059000B7F8F /* patch-v11222024-1639 */ = {isa = PBXFileReference; lastKnownFileType = text; path = "patch-v11222024-1639"; sourceTree = "<group>"; };
+		A7B36EF42CF14059000B7F8F /* HEAD */ = {isa = PBXFileReference; lastKnownFileType = text; path = HEAD; sourceTree = "<group>"; };
+		A7B36EF82CF14059000B7F8F /* HEAD */ = {isa = PBXFileReference; lastKnownFileType = text; path = HEAD; sourceTree = "<group>"; };
+		A7B36EFB2CF14059000B7F8F /* pack-bc74fb9fd0af7b25cc73311dc1d6bb8f3171e869.idx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "pack-bc74fb9fd0af7b25cc73311dc1d6bb8f3171e869.idx"; sourceTree = "<group>"; };
+		A7B36EFC2CF14059000B7F8F /* pack-bc74fb9fd0af7b25cc73311dc1d6bb8f3171e869.pack */ = {isa = PBXFileReference; lastKnownFileType = file; path = "pack-bc74fb9fd0af7b25cc73311dc1d6bb8f3171e869.pack"; sourceTree = "<group>"; };
+		A7B36EFD2CF14059000B7F8F /* pack-bc74fb9fd0af7b25cc73311dc1d6bb8f3171e869.rev */ = {isa = PBXFileReference; lastKnownFileType = file; path = "pack-bc74fb9fd0af7b25cc73311dc1d6bb8f3171e869.rev"; sourceTree = "<group>"; };
+		A7B36F002CF14059000B7F8F /* master */ = {isa = PBXFileReference; lastKnownFileType = text; path = master; sourceTree = "<group>"; };
+		A7B36F012CF14059000B7F8F /* patch-v11222024-1639 */ = {isa = PBXFileReference; lastKnownFileType = text; path = "patch-v11222024-1639"; sourceTree = "<group>"; };
+		A7B36F032CF14059000B7F8F /* HEAD */ = {isa = PBXFileReference; lastKnownFileType = text; path = HEAD; sourceTree = "<group>"; };
+		A7B36F082CF14059000B7F8F /* config */ = {isa = PBXFileReference; lastKnownFileType = text; path = config; sourceTree = "<group>"; };
+		A7B36F092CF14059000B7F8F /* description */ = {isa = PBXFileReference; lastKnownFileType = text; path = description; sourceTree = "<group>"; };
+		A7B36F0A2CF14059000B7F8F /* HEAD */ = {isa = PBXFileReference; lastKnownFileType = text; path = HEAD; sourceTree = "<group>"; };
+		A7B36F0B2CF14059000B7F8F /* index */ = {isa = PBXFileReference; lastKnownFileType = file; path = index; sourceTree = "<group>"; };
+		A7B36F0C2CF14059000B7F8F /* packed-refs */ = {isa = PBXFileReference; lastKnownFileType = text; path = "packed-refs"; sourceTree = "<group>"; };
+		A7B36F112CF14059000B7F8F /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		A7B36F122CF14059000B7F8F /* .gitlab-ci.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = ".gitlab-ci.yml"; sourceTree = "<group>"; };
+		A7B36F162CF14059000B7F8F /* CNAME */ = {isa = PBXFileReference; lastKnownFileType = text; path = CNAME; sourceTree = "<group>"; };
+		A7B36F172CF14059000B7F8F /* config.yaml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = config.yaml; sourceTree = "<group>"; };
+		A7B36F4B2CF14059000B7F8F /* go.mod */ = {isa = PBXFileReference; lastKnownFileType = text; path = go.mod; sourceTree = "<group>"; };
+		A7B36F4C2CF14059000B7F8F /* go.sum */ = {isa = PBXFileReference; lastKnownFileType = text; path = go.sum; sourceTree = "<group>"; };
+		A7B36F4D2CF14059000B7F8F /* hugo.yaml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = hugo.yaml; sourceTree = "<group>"; };
+		A7B36F542CF14059000B7F8F /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		A7B36F552CF14059000B7F8F /* netlify.toml */ = {isa = PBXFileReference; lastKnownFileType = text; path = netlify.toml; sourceTree = "<group>"; };
+		A7B36F562CF14059000B7F8F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A7B36F682CF14059000B7F8F /* tffhrtp.github.io.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = tffhrtp.github.io.xcodeproj; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		A7B36F7B2CF14092000B7F8F /* static */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = static;
+			sourceTree = "<group>";
+		};
+		A7B36F812CF1409A000B7F8F /* layouts */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = layouts;
+			sourceTree = "<group>";
+		};
+		A7B36FB42CF1409F000B7F8F /* content */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = content;
+			sourceTree = "<group>";
+		};
+		A7B36FB72CF140A2000B7F8F /* assets */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = assets;
+			sourceTree = "<group>";
+		};
+		A7B36FBA2CF140A5000B7F8F /* .github */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = .github;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXGroup section */
+		A79FF1A62CF12B1400B78D91 = {
+			isa = PBXGroup;
+			children = (
+				A7B36F0D2CF14059000B7F8F /* .git */,
+				A7B36FBA2CF140A5000B7F8F /* .github */,
+				A7B36F112CF14059000B7F8F /* .gitignore */,
+				A7B36F122CF14059000B7F8F /* .gitlab-ci.yml */,
+				A7B36FB72CF140A2000B7F8F /* assets */,
+				A7B36F162CF14059000B7F8F /* CNAME */,
+				A7B36F172CF14059000B7F8F /* config.yaml */,
+				A7B36FB42CF1409F000B7F8F /* content */,
+				A7B36F4B2CF14059000B7F8F /* go.mod */,
+				A7B36F4C2CF14059000B7F8F /* go.sum */,
+				A7B36F4D2CF14059000B7F8F /* hugo.yaml */,
+				A7B36F812CF1409A000B7F8F /* layouts */,
+				A7B36F542CF14059000B7F8F /* LICENSE */,
+				A7B36F552CF14059000B7F8F /* netlify.toml */,
+				A7B36F562CF14059000B7F8F /* README.md */,
+				A7B36F7B2CF14092000B7F8F /* static */,
+				A7B36F682CF14059000B7F8F /* tffhrtp.github.io.xcodeproj */,
+			);
+			sourceTree = "<group>";
+		};
+		A7B36EEE2CF14059000B7F8F /* hooks */ = {
+			isa = PBXGroup;
+			children = (
+				A7B36EE02CF14059000B7F8F /* applypatch-msg.sample */,
+				A7B36EE12CF14059000B7F8F /* commit-msg.sample */,
+				A7B36EE22CF14059000B7F8F /* fsmonitor-watchman.sample */,
+				A7B36EE32CF14059000B7F8F /* post-update.sample */,
+				A7B36EE42CF14059000B7F8F /* pre-applypatch.sample */,
+				A7B36EE52CF14059000B7F8F /* pre-commit.sample */,
+				A7B36EE62CF14059000B7F8F /* pre-merge-commit.sample */,
+				A7B36EE72CF14059000B7F8F /* pre-push.sample */,
+				A7B36EE82CF14059000B7F8F /* pre-rebase.sample */,
+				A7B36EE92CF14059000B7F8F /* pre-receive.sample */,
+				A7B36EEA2CF14059000B7F8F /* prepare-commit-msg.sample */,
+				A7B36EEB2CF14059000B7F8F /* push-to-checkout.sample */,
+				A7B36EEC2CF14059000B7F8F /* sendemail-validate.sample */,
+				A7B36EED2CF14059000B7F8F /* update.sample */,
+			);
+			path = hooks;
+			sourceTree = "<group>";
+		};
+		A7B36EF02CF14059000B7F8F /* info */ = {
+			isa = PBXGroup;
+			children = (
+				A7B36EEF2CF14059000B7F8F /* exclude */,
+			);
+			path = info;
+			sourceTree = "<group>";
+		};
+		A7B36EF32CF14059000B7F8F /* heads */ = {
+			isa = PBXGroup;
+			children = (
+				A7B36EF12CF14059000B7F8F /* master */,
+				A7B36EF22CF14059000B7F8F /* patch-v11222024-1639 */,
+			);
+			path = heads;
+			sourceTree = "<group>";
+		};
+		A7B36EF52CF14059000B7F8F /* origin */ = {
+			isa = PBXGroup;
+			children = (
+				A7B36EF42CF14059000B7F8F /* HEAD */,
+			);
+			path = origin;
+			sourceTree = "<group>";
+		};
+		A7B36EF62CF14059000B7F8F /* remotes */ = {
+			isa = PBXGroup;
+			children = (
+				A7B36EF52CF14059000B7F8F /* origin */,
+			);
+			path = remotes;
+			sourceTree = "<group>";
+		};
+		A7B36EF72CF14059000B7F8F /* refs */ = {
+			isa = PBXGroup;
+			children = (
+				A7B36EF32CF14059000B7F8F /* heads */,
+				A7B36EF62CF14059000B7F8F /* remotes */,
+			);
+			path = refs;
+			sourceTree = "<group>";
+		};
+		A7B36EF92CF14059000B7F8F /* logs */ = {
+			isa = PBXGroup;
+			children = (
+				A7B36EF72CF14059000B7F8F /* refs */,
+				A7B36EF82CF14059000B7F8F /* HEAD */,
+			);
+			path = logs;
+			sourceTree = "<group>";
+		};
+		A7B36EFA2CF14059000B7F8F /* info */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = info;
+			sourceTree = "<group>";
+		};
+		A7B36EFE2CF14059000B7F8F /* pack */ = {
+			isa = PBXGroup;
+			children = (
+				A7B36EFB2CF14059000B7F8F /* pack-bc74fb9fd0af7b25cc73311dc1d6bb8f3171e869.idx */,
+				A7B36EFC2CF14059000B7F8F /* pack-bc74fb9fd0af7b25cc73311dc1d6bb8f3171e869.pack */,
+				A7B36EFD2CF14059000B7F8F /* pack-bc74fb9fd0af7b25cc73311dc1d6bb8f3171e869.rev */,
+			);
+			path = pack;
+			sourceTree = "<group>";
+		};
+		A7B36EFF2CF14059000B7F8F /* objects */ = {
+			isa = PBXGroup;
+			children = (
+				A7B36EFA2CF14059000B7F8F /* info */,
+				A7B36EFE2CF14059000B7F8F /* pack */,
+			);
+			path = objects;
+			sourceTree = "<group>";
+		};
+		A7B36F022CF14059000B7F8F /* heads */ = {
+			isa = PBXGroup;
+			children = (
+				A7B36F002CF14059000B7F8F /* master */,
+				A7B36F012CF14059000B7F8F /* patch-v11222024-1639 */,
+			);
+			path = heads;
+			sourceTree = "<group>";
+		};
+		A7B36F042CF14059000B7F8F /* origin */ = {
+			isa = PBXGroup;
+			children = (
+				A7B36F032CF14059000B7F8F /* HEAD */,
+			);
+			path = origin;
+			sourceTree = "<group>";
+		};
+		A7B36F052CF14059000B7F8F /* remotes */ = {
+			isa = PBXGroup;
+			children = (
+				A7B36F042CF14059000B7F8F /* origin */,
+			);
+			path = remotes;
+			sourceTree = "<group>";
+		};
+		A7B36F062CF14059000B7F8F /* tags */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = tags;
+			sourceTree = "<group>";
+		};
+		A7B36F072CF14059000B7F8F /* refs */ = {
+			isa = PBXGroup;
+			children = (
+				A7B36F022CF14059000B7F8F /* heads */,
+				A7B36F052CF14059000B7F8F /* remotes */,
+				A7B36F062CF14059000B7F8F /* tags */,
+			);
+			path = refs;
+			sourceTree = "<group>";
+		};
+		A7B36F0D2CF14059000B7F8F /* .git */ = {
+			isa = PBXGroup;
+			children = (
+				A7B36EEE2CF14059000B7F8F /* hooks */,
+				A7B36EF02CF14059000B7F8F /* info */,
+				A7B36EF92CF14059000B7F8F /* logs */,
+				A7B36EFF2CF14059000B7F8F /* objects */,
+				A7B36F072CF14059000B7F8F /* refs */,
+				A7B36F082CF14059000B7F8F /* config */,
+				A7B36F092CF14059000B7F8F /* description */,
+				A7B36F0A2CF14059000B7F8F /* HEAD */,
+				A7B36F0B2CF14059000B7F8F /* index */,
+				A7B36F0C2CF14059000B7F8F /* packed-refs */,
+			);
+			path = .git;
+			sourceTree = "<group>";
+		};
+		A7B36F692CF14059000B7F8F /* Products */ = {
+			isa = PBXGroup;
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		A79FF1A72CF12B1400B78D91 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1610;
+			};
+			buildConfigurationList = A79FF1AA2CF12B1400B78D91 /* Build configuration list for PBXProject "tffhrtp.github.io" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A79FF1A62CF12B1400B78D91;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = A7B36F692CF14059000B7F8F /* Products */;
+					ProjectRef = A7B36F682CF14059000B7F8F /* tffhrtp.github.io.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		A79FF1AB2CF12B1400B78D91 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		A79FF1AC2CF12B1400B78D91 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A79FF1AA2CF12B1400B78D91 /* Build configuration list for PBXProject "tffhrtp.github.io" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A79FF1AB2CF12B1400B78D91 /* Debug */,
+				A79FF1AC2CF12B1400B78D91 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A79FF1A72CF12B1400B78D91 /* Project object */;
+}
