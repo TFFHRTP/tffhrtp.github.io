@@ -49,7 +49,7 @@ __1. Photojournalism as a road to Change__
 
 In the digital era, photos can be stored forver. Photojournalism has the power to bring this to life, and is ubiquitous. From iconic images that have shaped our collective memory to everyday snapshots that encapsulate personal memories, photography holds a unique ability to convey emotions, evoke empathy, and spur action.
 
-Combining photjournalism with digital technology allows us to effectively store images that capture stories of human rights forever. We aim to use this technology to learn from our past and direct us on how we should improve in the future, so that we can direct humanity in a better way.
+Combining photojournalism with digital technology allows us to effectively store images that capture stories of human rights forever. We aim to use this technology to learn from our past and direct us on how we should improve in the future, so that we can direct humanity in a better way.
 
 The Power of Perspective: Photojournalism allows us to step into the shoes of communities throughout the world and see through their eyes. It breaks down the imaginary walls that separate us and fosters a sense of empathy and understanding. We are reminded of our shared humanity as we examine photographs that capture marginalized individuals’ everyday struggles, dreams, and triumphs.
 
