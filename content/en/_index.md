@@ -16,18 +16,18 @@ title: Homepage
 {{% blocks/lead color="primary" %}}
 We are The Foundation for Human Rights through Photography, a 501(c)(3) nonprofit organization that uses photojournalism and education to inspire action on human rights.
 
-Humans deserve certain rights in life; we support photographers that want to help promote human rights. Regardless of if it is positive or negative, if it is human rights, it needs to be documented. The human mind forgets; but in the digital age-the computers almost guarantee that it won’t be forgotten. Humans learn from their mistakes and wins, so that they may educate themselves on what they have done right or wrong. Because of this, we encourage photographers around the world to use their artistic skills to document human rights, in context, so that we may learn from what we as humans have done right, and wrong, and change our future actions accordingly.
+Humans deserve certain rights in life; we support photojournalists that want to help promote human rights. Regardless of if it is positive or negative, if it is human rights, it needs to be documented. The human mind forgets; but in the digital age-the computers almost guarantee that it won’t be forgotten. Humans learn from their mistakes and wins, so that they may educate themselves on what they have done right or wrong. Because of this, we encourage photojournalists around the world to use their artistic skills to document human rights, in context, so that we may learn from what we as humans have done right, and wrong, and change our future actions accordingly.
 {{% /blocks/lead %}}
 
 
 {{% blocks/section color="dark" %}}
 <b>1. Education</b>
 
-Through powerful imagery, we educate people about human rights globally, shedding light on both triumphs and injustices.
+Through photojournalism, we educate people about human rights globally, shedding light on both triumphs and injustices.
 
 <b>2. Documentation</b>
 
-Our photographers document human rights issues to create a visual archive that inspires change and reflection.
+Our photojournists document human rights issues to create a visual archive that inspires change and reflection.
 
 <b>3. Promotion</b>
 
