@@ -34,6 +34,3 @@ Our photojournists document human rights issues to create a visual archive that 
 We promote human rights through exhibitions, publications, and educational initiatives to foster compassion and understanding.
 
 {{% /blocks/section %}}
-{{% blocks/section %}}
-We archive photographs for anyone to view; anytime, anywhere. Images can be used by anyone to illustrate human rights in action, as long as it gives context in a photojournalistic manner. We kindly ask that photographs used from our archives be given credit to the photographers that own the copyrights. If you are a photographer with a copyright complaint, please email us at copyrights@fhrp.org. Photographers that wish to submit their photographs for others to use may do so by signing up for a member account to our archives.
-{{% /blocks/section %}}

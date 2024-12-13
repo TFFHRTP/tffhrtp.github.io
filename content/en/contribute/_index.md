@@ -5,15 +5,15 @@ menu: {main: {weight: 40}}
 ---
 {{% blocks/cover title="Contribute" image_anchor="bottom" height="auto" %}}
 
-Contribute to our archive project
+Contribute to photojournalism archive
 {{% /blocks/cover %}}
 
 {{% blocks/section %}}
-We archive photographs for anyone to view; anytime, anywhere. Images can be used by anyone to illustrate human rights in action, as long as it gives context in a photojournalistic manner. We kindly ask that photographs used from our archives be given credit to the photographers that own the copyrights.
+Our photojournalists make their works available for use under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Photographers that wish to submit their photographs for others to use may do so by signing up for a member account by clicking the link below.
+Photojournalists that wish to submit their works may email us at [info@fhrp.org](mailto:info@fhrp.org) or visit [https://fhrp.org/volunteer/](https://fhrp.org/volunteer/) to find out more about volunteer opportunities. We usually respond within 5-7 business days.
 
-<p><a class="dbox-donation-page-button" href="https://fhrp.org/contribute" style="background: rgb(216, 17, 93); color: rgb(255, 255, 255); text-decoration: none; font-family: Verdana, sans-serif; display: flex; font-size: 16px; padding: 8px 24px; border-radius: 5px; gap: 8px; width: fit-content; line-height: 24px;">Archives Coming Soon</a></p>
+<p><a class="dbox-donation-page-button" href="https://archives.fhrp.org/" style="background: rgb(216, 17, 93); color: rgb(255, 255, 255); text-decoration: none; font-family: Verdana, sans-serif; display: flex; font-size: 16px; padding: 8px 24px; border-radius: 5px; gap: 8px; width: fit-content; line-height: 24px;">Archives</a></p>
 
-If you have a copyright complaint, please email us at copyrights@fhrp.org.
+Please read our copyright disclaimer [here](https://archives.fhrp.org/copyright-disclaimer/).
 {{% /blocks/section %}}
