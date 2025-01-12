@@ -15,13 +15,13 @@ Email:
 
 info@fhrp.org
 
-Phone:
+Chat:
 
-+1 (469) 704-3481
+<p><a class="dbox-donation-page-button" href="https://wa.me/message/6H23OBIUKPH2M1" style="background: rgb(216, 17, 93); color: rgb(255, 255, 255); text-decoration: none; font-family: Verdana, sans-serif; display: flex; font-size: 16px; padding: 8px 24px; border-radius: 5px; gap: 8px; width: fit-content; line-height: 24px;">WhatsApp</a></p>
 
 Mail:
 
-The Foundation for Human Rights through Photography
+Foundation for Human Rights through Photography
 
 1737 Long Meadow Rd
 
