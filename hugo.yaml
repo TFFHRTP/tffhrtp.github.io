@@ -1,6 +1,6 @@
 environment: production
 baseURL: https://tffhrtp.github.io/
-title: The Foundation for Human Rights through Photography
+title: Foundation for Human Rights through Photography
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 # Language settings
@@ -49,7 +49,7 @@ imaging:
 languages:
   en:
     languageName: English
-    title: The Foundation for Human Rights through Photography
+    title: Foundation for Human Rights through Photography
     params:
       description: Human rights nonprofit
 markup:
@@ -128,7 +128,7 @@ params:
   prism_syntax_highlighting: false
 
   copyright:
-    authors: The Foundation for Human Rights through Photography. | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [InterServer](https://interserver.net/) |
+    authors: Foundation for Human Rights through Photography. | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [InterServer](https://interserver.net/) |
     from_year: 2023
     donations: Donations are Tax Deductible where law applies.
     ein: "EIN 93-3974545"
