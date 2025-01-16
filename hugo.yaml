@@ -132,7 +132,7 @@ params:
     from_year: 2023
     donations: Donations are Tax Deductible where law applies.
     ein: "EIN 93-3974545"
-    mainoffice: 1737 Long Meadow Rd, Wylie, TX 75098
+    mainoffice: ||
 
   # User interface configuration
   ui:
