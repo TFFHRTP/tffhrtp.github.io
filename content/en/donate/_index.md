@@ -52,7 +52,4 @@ Join us in this crucial mission. Every donation, no matter the size, helps to do
 
 Donate today and become a part of the change.
 
-<b>Send checks to:</b>
-
-1737 Long Meadow Rd, Wylie, TX 75098
 {{% /blocks/section %}}
