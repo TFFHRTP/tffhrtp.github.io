@@ -18,7 +18,7 @@ https://fhrp.org (the "Site") is owned and operated by The Foundation for Human 
 
 compliance@fhrp.org
 
-(469) 704-3481
+(469) 969-0127
 
 1737 Long Meadow Rd, Wylie, TX 75098
 
@@ -135,11 +135,11 @@ We do not knowingly collect or use personal data from children under 16 years of
 
 If you would like to know if we have collected your personal data, how we have used your personal data, if we have disclosed your personal data and to who we disclosed your personal data, if you would like your data to be deleted or modified in any way, or if you would like to exercise any of your other rights under the GDPR, please contact our data protection officer here:
 
-Matthew A. Davis
+Compliance Officer
 
-mdavis@fhrp.org
+compliance@fhrp.org
 
-(469) 704-3481
+(469) 969-0127
 
 1737 Long Meadow Rd, Wylie, TX 75098
 
@@ -175,7 +175,7 @@ If you have any questions, concerns or complaints, you can contact our data prot
 
 mdavis@fhrp.org
 
-(469) 704-3481
+(469) 969-0127
 
 1737 Long Meadow Rd, Wylie, TX 75098
       
