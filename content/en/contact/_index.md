@@ -14,6 +14,18 @@ You may contact us directly by the following
 Email:
 
 info@fhrp.org
+
+Phone:
+
++1 (469) 969-0127
+
+Mail:
+
+Foundation for Human Rights through Photography
+
+1737 Long Meadow Rd
+
+Wylie, TX 75098
 {{% /blocks/section %}}
 {{% blocks/section %}}
 We will respond within 7-10 business days.
