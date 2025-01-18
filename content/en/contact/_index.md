@@ -14,7 +14,7 @@ You may contact us directly by the following
 Email:
 
 info@fhrp.org
-
+{{% /blocks/section %}}
 {{% blocks/section %}}
 We will respond within 7-10 business days.
 { .text-center}
