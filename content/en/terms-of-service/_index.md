@@ -15,7 +15,7 @@ We are The Foundation for Human Rights through Photography ("Company," “we,”
 
 We operate the website fhrp.org (the "Site"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").
 
-You can contact us by phone at (469) 704-3481, email at compliance@fhrp.org, or by mail to 1737 Long Meadow Rd, Wylie, TX 75098, United States.
+You can contact us by phone at (469) 969-0127, email at compliance@fhrp.org, or by mail to 1737 Long Meadow Rd, Wylie, TX 75098, United States.
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and The Foundation for Human Rights through Photography, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
@@ -304,7 +304,7 @@ Wylie, TX 75098
 
 United States
 
-Phone: (469) 704-3481 
+Phone: (469) 969-0127
 
 compliance@fhrp.org
 
