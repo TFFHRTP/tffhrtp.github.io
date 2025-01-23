@@ -12,7 +12,7 @@ Last updated November 04, 2024
 
 Type of website: Nonprofit
 
-Effective date: 6th day of November, 2024
+Effective date: 23rd day of January, 2025
 
 https://fhrp.org (the "Site") is owned and operated by The Foundation for Human Rights through Photography. The Foundation for Human Rights through Photography is the data controller and can be contacted at:
 
@@ -72,6 +72,7 @@ We may share user data with the following third parties:
 
     GitHub;
     GitLab;
+    Google;
     DonorBox; and
     CloudFlare.
 
@@ -81,7 +82,8 @@ We may share the following user data with third parties:
 
 We may share user data with third parties for the following purposes:
 
-    Logs; and
+    Logs;
+    Ad tracking; and
     Analytics.
 
 Third parties will not be able to access user data beyond what is reasonably necessary to achieve the given purpose.
