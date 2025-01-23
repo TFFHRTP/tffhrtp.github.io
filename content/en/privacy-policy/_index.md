@@ -173,9 +173,9 @@ If you have any complaints about how we process your personal data, please conta
 
 Contact Information
 
-If you have any questions, concerns or complaints, you can contact our data protection officer, Matthew A. Davis, at:
+If you have any questions, concerns or complaints, you can contact our Data Protection Officer, at:
 
-mdavis@fhrp.org
+compliance@fhrp.org
 
 (469) 969-0127
 
