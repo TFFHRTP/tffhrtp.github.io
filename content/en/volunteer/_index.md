@@ -12,46 +12,68 @@ We are currently seeking motivated photographers to donate their images to our a
 {{% /blocks/lead %}}
 
 {{% blocks/section %}}
-Join us in making a difference in the community. We offer various volunteering opportunities that you can participate in. If you are interested in volunteering, please email mdavis@fhrp.org
+Join us in making a difference in the community. We offer various volunteering opportunities that you can participate in. If you are interested in volunteering, please email info@fhrp.org
 
-## Volunteer Photojournalist
+## Job Description: Volunteer Photojournalist
 
-## Foundation for Human Rights through Photography
+## About The Foundation for Human Rights through Photography (TFFHRTP)
 
-About the Foundation:
+The Foundation for Human Rights through Photography (TFFHRTP) is a non-profit organization based in the Dallas-Fort Worth Metroplex, Texas. We are dedicated to educating the public about human rights issues, documenting these issues through photography, and promoting positive change for a better future. We achieve this by capturing human rights events and sharing these powerful images to raise awareness and inspire action.
 
-The Foundation for Human Rights through Photography is a non-profit organization dedicated to documenting human rights abuses and promoting justice through the power of photography. We believe that visual evidence can play a crucial role in exposing injustice, holding perpetrators accountable, and inspiring action. To expand our reach and impact, we are transitioning to an Open Source Initiative (OSI) model, making our tools and resources accessible to journalists, and organizations worldwide.
+## About the Role:
 
-About the Role:
+TFFHRTP seeks a passionate and skilled Volunteer Photojournalist to capture compelling images and tell the stories behind human rights events. This is a remote, unpaid opportunity to contribute your talents to a vital cause and build your portfolio. As a Volunteer Photojournalist, you will play a crucial role in documenting these events and amplifying their impact through visual storytelling.
 
-Company Description
+## Responsibilities:
 
-The Foundation for Human Rights through Photography is a non-profit organization based in the Dallas-Fort Worth Metroplex. Our mission is to educate people on, document, and promote Human Rights through the lens of Photography. We capture Human Rights events to educate and inspire others for a better future. We believe that people learn from their past, regardless of good or bad, and make changes to their future based on that past. We use photojournalism to support our mission in promoting human rights in-action, and do that through storing our archives digitally so that others may access them freely. The human mind forgets, but digital media does not.
+•	Capture high-quality photographs of human rights events throughout Texas, focusing on composition, lighting, and emotional impact.
 
-Role Description
+•	Document stories through photography, conveying the experiences and perspectives of individuals involved.
 
-This is an unpaid role for a Volunteer Photographer. The Volunteer Photographer will be responsible for capturing Human Rights events, telling stories through photography, and documenting impactful moments. This role offers the opportunity to contribute to a noble cause while honing your photography and storytelling skills.
+•	Craft compelling narratives through both images and accompanying written pieces (articles, captions, blog posts, etc.) that bring the stories to life.
 
-Qualifications
+•	Collaborate with the TFFHRTP team to identify relevant events and develop photographic strategies.
 
-Photojournalism and Photography skills
+•	Maintain organized archives of your photographic work.
 
-Strong Writing and Storytelling abilities
+•	Adhere to ethical photojournalism standards and practices.
 
-Experience with cameras and photography equipment
+•	Work independently and remotely, managing your time effectively to meet deadlines.
 
-Passion for documenting Human Rights events
+## Qualifications:
 
-Attention to detail and ability to capture emotions through photography
+•	Demonstrated proficiency in photojournalism and photography, with a strong portfolio showcasing your skills.
 
-Ability to work collaboratively with a team
+•	Excellent visual storytelling abilities, with a keen eye for capturing impactful moments.
 
-Knowledge of Human Rights issues is a plus
+•	Strong writing and communication skills, capable of crafting engaging narratives that complement your photographs.
 
-Previous experience in photojournalism or related field is a MUST
+•	Experience using camera equipment effectively and knowledge of photography techniques (composition, lighting, etc.).
 
-To Apply:
+•	A genuine passion for human rights and a commitment to using photography as a tool for positive change.
 
-Please submit your resume and a cover letter expressing your interest and relevant experience to [mdavis@fhrp.org](mailto:mdavis@fhrp.org)
+•	Ability to work independently and remotely, with strong self-discipline and organizational skills.
+
+•	Excellent communication and interpersonal skills, with the ability to collaborate effectively with the TFFHRTP team.  
+
+## Benefits of Volunteering:
+
+•	Make a tangible difference in promoting human rights awareness.
+
+•	Build your portfolio with impactful, real-world experience.
+
+•	Gain valuable experience in photojournalism and non-profit communications.
+
+•	Network with other professionals and advocates in the human rights field.
+
+•	Receive recognition for your contributions on the TFFHRTP website and social media platforms.
+
+•	Flexible, remote work arrangement.
+
+## To Apply:
+
+Please submit your resume, cover letter, and portfolio (or link to your online portfolio) to info@fhrp.org In your cover letter, please highlight your experience in photojournalism, your passion for human rights, and your understanding of TFFHRTP's mission.
+
+
 
 {{% /blocks/section %}}
